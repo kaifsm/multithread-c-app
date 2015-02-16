@@ -13,9 +13,6 @@
 /*        Client/Server Application - Mutli-thread Chat Server          */
 /*                                                                      */
 /*        File: chserver.h                                              */
-/*        Description: this header file defines all data structures     */
-/*            used by your chat server. Use this as a sample or         */
-/*            guideline to implement your own chat server.              */
 /************************************************************************/
 
 
